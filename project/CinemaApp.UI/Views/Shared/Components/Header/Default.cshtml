@@ -1,0 +1,96 @@
+﻿<!-- Header start -->
+<header class="header">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="header__content">
+                    <!-- header logo -->
+                    <a asp-controller="Home" asp-action="Index" class="header__logo">
+                        <img src="img/logo.svg" alt="">
+                        My<span>Flix</span>
+                    </a>
+                    <!-- end header logo -->
+                    <!-- header nav -->
+                    <ul class="header__nav">
+                        <!-- dropdown -->
+                        <li class="header__nav-item">
+                            <a asp-controller="Home" asp-action="Index" class="header__nav-link">Home</a>
+
+
+                        </li>
+                        <!-- end dropdown -->
+                        <!-- dropdown -->
+                        <li class="header__nav-item">
+                            <a class="dropdown-toggle header__nav-link" href="#" role="button" id="dropdownMenuCatalog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Catalog <i class="icon ion-ios-arrow-down"></i></a>
+
+                            <ul class="dropdown-menu header__dropdown-menu" aria-labelledby="dropdownMenuCatalog">
+                                <li><a asp-controller="ContactUs" asp-action="Create">Contact Us</a></li>
+                                <li><a asp-controller="Platinium" asp-action="Index">Platinium</a></li>
+                            </ul>
+                        </li>
+                        <!-- end dropdown -->
+
+                        <li class="header__nav-item">
+                            <a asp-controller="About" asp-action="Index" class="header__nav-link">About Us</a>
+                        </li>
+
+
+                    </ul>
+                    <!-- end header nav -->
+                    <!-- header auth -->
+                    <div class="header__auth">
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            <div style="background-color: #353b48; border-radius: 10px;" class="dropdown ml-auto mt-1">
+                                <button class="btn  dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-expanded="false">
+
+                                    <i style="font-size: 15px; color: #fff !important " class="bi bi-person"></i>
+
+                                </button>
+                                <div class="dropdown-menu header__dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                    <a class="dropdown-item" asp-controller="Account" asp-action="AccountProfil">
+
+                                        Profile:
+                                        <span style="color:#fff !important" class="text-dark">@User.Identity.Name</span><hr />
+                                    </a>
+
+                                    <a class="dropdown-item" asp-controller="Favorite" asp-action="ShowFavorite">
+                                        <i class="bi bi-save"></i>
+                                        Saved
+                                    </a>
+                                    <a class="dropdown-item" asp-controller="UserSetting" asp-action="ChangeSetting">
+                                        <i class="bi bi-gear"></i>
+                                        Settings
+                                    </a>
+                                    <a class="dropdown-item" asp-controller="Account" asp-action="SignOut">
+                                        <i class="bi bi-door-open"></i>
+                                        Log out
+                                    </a>
+
+                                </div>
+                            </div>
+                        }
+                        else
+                        {   
+                            <a asp-controller="Account" asp-action="Login" asp-route-ReturnUrl="@Context.Request.Path.Value" class="header__sign-in">
+                                <i class="icon ion-ios-log-in"></i>
+                                <span>sign in</span>
+                            </a>
+                        }
+                        
+                    </div>
+                    <!-- end header auth -->
+                    <!-- header menu btn -->
+                    <button class="header__btn" type="button">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </button>
+                    <!-- end header menu btn -->
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+

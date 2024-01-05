@@ -1,0 +1,16 @@
+C:\Data\FinalProjects\CinemaApp\CinemaApp.Core\bin\Debug\net6.0\CinemaApp.Core.deps.json
+C:\Data\FinalProjects\CinemaApp\CinemaApp.Core\bin\Debug\net6.0\CinemaApp.Core.dll
+C:\Data\FinalProjects\CinemaApp\CinemaApp.Core\bin\Debug\net6.0\CinemaApp.Core.pdb
+C:\Data\FinalProjects\CinemaApp\CinemaApp.Core\bin\Debug\net6.0\CinemaApp.Entity.dll
+C:\Data\FinalProjects\CinemaApp\CinemaApp.Core\bin\Debug\net6.0\CinemaApp.Entity.pdb
+C:\Data\FinalProjects\CinemaApp\CinemaApp.Core\obj\Debug\net6.0\CinemaApp.Core.csproj.AssemblyReference.cache
+C:\Data\FinalProjects\CinemaApp\CinemaApp.Core\obj\Debug\net6.0\CinemaApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\FinalProjects\CinemaApp\CinemaApp.Core\obj\Debug\net6.0\CinemaApp.Core.AssemblyInfoInputs.cache
+C:\Data\FinalProjects\CinemaApp\CinemaApp.Core\obj\Debug\net6.0\CinemaApp.Core.AssemblyInfo.cs
+C:\Data\FinalProjects\CinemaApp\CinemaApp.Core\obj\Debug\net6.0\CinemaApp.Core.csproj.CoreCompileInputs.cache
+C:\Data\FinalProjects\CinemaApp\CinemaApp.Core\obj\Debug\net6.0\CinemaApp.Core.sourcelink.json
+C:\Data\FinalProjects\CinemaApp\CinemaApp.Core\obj\Debug\net6.0\CinemaApp.Core.csproj.CopyComplete
+C:\Data\FinalProjects\CinemaApp\CinemaApp.Core\obj\Debug\net6.0\CinemaApp.Core.dll
+C:\Data\FinalProjects\CinemaApp\CinemaApp.Core\obj\Debug\net6.0\refint\CinemaApp.Core.dll
+C:\Data\FinalProjects\CinemaApp\CinemaApp.Core\obj\Debug\net6.0\CinemaApp.Core.pdb
+C:\Data\FinalProjects\CinemaApp\CinemaApp.Core\obj\Debug\net6.0\ref\CinemaApp.Core.dll
