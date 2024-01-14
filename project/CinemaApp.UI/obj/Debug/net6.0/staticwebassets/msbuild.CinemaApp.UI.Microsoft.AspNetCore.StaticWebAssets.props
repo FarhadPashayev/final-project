@@ -14752,6 +14752,38 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\image\0ceca075-5464-4831-af6d-8b131eab638c_ancharted.350x0.jpg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\image\130120b9-5df4-44aa-8037-b732d942df8b_hollywood-ca-a-general-view-of-atmosphere-is-seen-during-the-premiere-of-paramount-pictures.webp))">
+      <SourceType>Package</SourceType>
+      <SourceId>CinemaApp.UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CinemaApp.UI</BasePath>
+      <RelativePath>assets/image/130120b9-5df4-44aa-8037-b732d942df8b_hollywood-ca-a-general-view-of-atmosphere-is-seen-during-the-premiere-of-paramount-pictures.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\image\130120b9-5df4-44aa-8037-b732d942df8b_hollywood-ca-a-general-view-of-atmosphere-is-seen-during-the-premiere-of-paramount-pictures.webp))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\image\13bf8c29-e4a9-44a8-86b7-32a52c6a4797_xJHokMbljvjADYdit5fK5VQsXEG.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>CinemaApp.UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CinemaApp.UI</BasePath>
+      <RelativePath>assets/image/13bf8c29-e4a9-44a8-86b7-32a52c6a4797_xJHokMbljvjADYdit5fK5VQsXEG.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\image\13bf8c29-e4a9-44a8-86b7-32a52c6a4797_xJHokMbljvjADYdit5fK5VQsXEG.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\image\16837.350x0.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>CinemaApp.UI</SourceId>
@@ -14944,6 +14976,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\image\3507ae1e-142b-4aec-9bcb-4a67c04ebe3e_9e1f8a99-1523-4da7-b7b6-7172f7ec9392_terrakota.jpg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\image\3758337e-c986-44e0-a777-2c6e93b8f4e0_hollywood-ca-a-general-view-of-atmosphere-is-seen-during-the-premiere-of-paramount-pictures.webp))">
+      <SourceType>Package</SourceType>
+      <SourceId>CinemaApp.UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CinemaApp.UI</BasePath>
+      <RelativePath>assets/image/3758337e-c986-44e0-a777-2c6e93b8f4e0_hollywood-ca-a-general-view-of-atmosphere-is-seen-during-the-premiere-of-paramount-pictures.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\image\3758337e-c986-44e0-a777-2c6e93b8f4e0_hollywood-ca-a-general-view-of-atmosphere-is-seen-during-the-premiere-of-paramount-pictures.webp))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\image\3b7444bb-3361-468b-a269-63608e35012c_war_category.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>CinemaApp.UI</SourceId>
@@ -15007,22 +15055,6 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\image\441cae08-1f77-4429-ad50-687d2dac05ba_874d3974-d064-4ffa-b5bf-957bc05b2488_GodFatherBackground.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\image\45c9071d-0763-4e77-8e68-0a24023480ce_moondown.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>CinemaApp.UI</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CinemaApp.UI</BasePath>
-      <RelativePath>assets/image/45c9071d-0763-4e77-8e68-0a24023480ce_moondown.jpg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\image\45c9071d-0763-4e77-8e68-0a24023480ce_moondown.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\image\4637df4b-18e8-427e-bcf8-aa3bd30c10d5_home-hero.jpg))">
       <SourceType>Package</SourceType>
@@ -15167,6 +15199,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\image\7c917018-fc21-46d3-9154-72f0102fdec7_16837.350x0.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\image\856bed60-40d6-4915-bb70-5bfa709088d4_istockphoto-516545774-612x612.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>CinemaApp.UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CinemaApp.UI</BasePath>
+      <RelativePath>assets/image/856bed60-40d6-4915-bb70-5bfa709088d4_istockphoto-516545774-612x612.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\image\856bed60-40d6-4915-bb70-5bfa709088d4_istockphoto-516545774-612x612.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\image\862868f7-b48c-491a-8e5f-a7c0ca14a88c_GodFatherBackground2.jpg))">
       <SourceType>Package</SourceType>
@@ -15616,6 +15664,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\image\DayiBackground.jpg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\image\db5070f1-6148-4219-b7e3-17fcd551da43_xJHokMbljvjADYdit5fK5VQsXEG.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>CinemaApp.UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CinemaApp.UI</BasePath>
+      <RelativePath>assets/image/db5070f1-6148-4219-b7e3-17fcd551da43_xJHokMbljvjADYdit5fK5VQsXEG.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\image\db5070f1-6148-4219-b7e3-17fcd551da43_xJHokMbljvjADYdit5fK5VQsXEG.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\image\e2228206-2113-4ebd-9588-b581c063dbd8_GodFatherBackground2.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>CinemaApp.UI</SourceId>
@@ -15647,6 +15711,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\image\e7611697-7334-4153-95c5-2011c9e1ca23_9e1f8a99-1523-4da7-b7b6-7172f7ec9392_terrakota.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\image\f72ef5c8-9ffa-428b-a97e-be88e552c1a6_hollywood-ca-a-general-view-of-atmosphere-is-seen-during-the-premiere-of-paramount-pictures.webp))">
+      <SourceType>Package</SourceType>
+      <SourceId>CinemaApp.UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CinemaApp.UI</BasePath>
+      <RelativePath>assets/image/f72ef5c8-9ffa-428b-a97e-be88e552c1a6_hollywood-ca-a-general-view-of-atmosphere-is-seen-during-the-premiere-of-paramount-pictures.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\image\f72ef5c8-9ffa-428b-a97e-be88e552c1a6_hollywood-ca-a-general-view-of-atmosphere-is-seen-during-the-premiere-of-paramount-pictures.webp))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\image\f9ad57b1-af54-4f8d-90bd-2f5ea600070e_4637df4b-18e8-427e-bcf8-aa3bd30c10d5_home-hero.jpg))">
       <SourceType>Package</SourceType>

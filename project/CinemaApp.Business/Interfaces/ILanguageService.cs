@@ -12,7 +12,6 @@ namespace CinemaApp.Business.Interfaces
         Task<IEnumerable<LangReadDto>> GetAllAsync();
         Task<Language> GetAsync(int id);
         Task CreateAsync(LangCreateDto createDto);
-        LangUpdateDto Update(int id);
         Task UpdateAsync(int id, LangUpdateDto updateDto);
         Task RemoveAsync(int id);
     }

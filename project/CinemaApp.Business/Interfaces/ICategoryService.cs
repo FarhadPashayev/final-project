@@ -13,7 +13,6 @@ namespace CinemaApp.Business.Interfaces
         Task<IEnumerable<CategoryReadDto>> GetAllAsync();
         Task<Category> GetAsync(int id);
         Task CreateAsync(CategoryCreateDto createDto);
-        CategoryUpdateDto Update(int id);
         Task UpdateAsync(int id, CategoryUpdateDto updateDto);
         Task RemoveAsync(int id);
     }

@@ -37,9 +37,11 @@ namespace CinemaApp.Business.Implementations
             return dbNews;
         }
 
-        public Task<News> GetAsync(int id)
+        public async Task<News> GetAsync(int id)
         {
-            throw new NotImplementedException();
+            var dbNews = await _unitOfWork.newsRepository.GetAsync(c => c.Id == id);
+            if (dbNews == null) throw new NullReferenceException();
+            return dbNews;
         }
 
         public async Task RemoveAsync(int id)

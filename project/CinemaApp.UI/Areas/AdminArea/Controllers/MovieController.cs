@@ -74,9 +74,11 @@ namespace CinemaApp.UI.Areas.AdminArea.Controllers
 
         }
 
-        public IActionResult Update(int Id)
+        public async Task<IActionResult> Update(int Id)
         {
-            return View();
+            Movie movie = await _movieService.GetAsync(Id);
+
+            return View(_mapper.Map<MovieUpdateDto>(movie));
         }
 
         [HttpPost]

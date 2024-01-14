@@ -67,9 +67,14 @@ namespace CinemaApp.UI.Areas.AdminArea.Controllers
 
         }
 
-        public IActionResult Update(int Id)
+        public async Task<IActionResult> Update(int Id)
         {
-            return View();
+            Category category = await _categoryService.GetAsync(Id);
+
+            return View(new CategoryUpdateDto()
+            {
+                CategoryName = category.CategoryName,
+            });
         }
 
         [HttpPost]

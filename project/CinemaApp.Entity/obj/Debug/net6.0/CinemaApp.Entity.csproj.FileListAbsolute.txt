@@ -11,3 +11,15 @@ C:\Data\FinalProjects\CinemaApp\CinemaApp.Entity\obj\Debug\net6.0\CinemaApp.Enti
 C:\Data\FinalProjects\CinemaApp\CinemaApp.Entity\obj\Debug\net6.0\refint\CinemaApp.Entity.dll
 C:\Data\FinalProjects\CinemaApp\CinemaApp.Entity\obj\Debug\net6.0\CinemaApp.Entity.pdb
 C:\Data\FinalProjects\CinemaApp\CinemaApp.Entity\obj\Debug\net6.0\ref\CinemaApp.Entity.dll
+C:\Users\Farhad\Source\Repos\final-project\project\CinemaApp.Entity\bin\Debug\net6.0\CinemaApp.Entity.deps.json
+C:\Users\Farhad\Source\Repos\final-project\project\CinemaApp.Entity\bin\Debug\net6.0\CinemaApp.Entity.dll
+C:\Users\Farhad\Source\Repos\final-project\project\CinemaApp.Entity\bin\Debug\net6.0\CinemaApp.Entity.pdb
+C:\Users\Farhad\Source\Repos\final-project\project\CinemaApp.Entity\obj\Debug\net6.0\CinemaApp.Entity.csproj.AssemblyReference.cache
+C:\Users\Farhad\Source\Repos\final-project\project\CinemaApp.Entity\obj\Debug\net6.0\CinemaApp.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farhad\Source\Repos\final-project\project\CinemaApp.Entity\obj\Debug\net6.0\CinemaApp.Entity.AssemblyInfoInputs.cache
+C:\Users\Farhad\Source\Repos\final-project\project\CinemaApp.Entity\obj\Debug\net6.0\CinemaApp.Entity.AssemblyInfo.cs
+C:\Users\Farhad\Source\Repos\final-project\project\CinemaApp.Entity\obj\Debug\net6.0\CinemaApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Farhad\Source\Repos\final-project\project\CinemaApp.Entity\obj\Debug\net6.0\CinemaApp.Entity.dll
+C:\Users\Farhad\Source\Repos\final-project\project\CinemaApp.Entity\obj\Debug\net6.0\refint\CinemaApp.Entity.dll
+C:\Users\Farhad\Source\Repos\final-project\project\CinemaApp.Entity\obj\Debug\net6.0\CinemaApp.Entity.pdb
+C:\Users\Farhad\Source\Repos\final-project\project\CinemaApp.Entity\obj\Debug\net6.0\ref\CinemaApp.Entity.dll

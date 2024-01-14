@@ -3,13 +3,16 @@ using CinemaApp.Business.DTOs.LanguageDtos;
 using CinemaApp.Business.Interfaces;
 using CinemaApp.Business.Utilities.File;
 using CinemaApp.Core;
+using CinemaApp.Entity.Entities;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Http.Headers;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
 using System.IO; 
 using System.Linq;
+using System.Net.WebSockets;
 using System.Threading.Tasks;
 
 namespace CinemaApp.UI.Areas.AdminArea.Controllers
@@ -62,9 +65,11 @@ namespace CinemaApp.UI.Areas.AdminArea.Controllers
 
         }
 
-        public IActionResult Update(int Id)
+        public async Task<IActionResult> Update(int Id)
         {
-            return View();
+             Language language = await _languageService.GetAsync(Id);
+
+            return View(_mapper.Map<LangUpdateDto>(language));
         }
 
         [HttpPost]

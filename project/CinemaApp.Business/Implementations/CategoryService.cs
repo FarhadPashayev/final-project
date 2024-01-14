@@ -77,12 +77,16 @@ namespace CinemaApp.Business.Implementations
             return categoryDtos;
         }
 
-        public Task<Category> GetAsync(int id)
+        public async Task<Category> GetAsync(int id)
         {
-            throw new NotImplementedException();
+            Category dbCategory = await _unitOfWork.categoryRepository
+                                        .GetAsync(c => c.Id == id);
+            if(dbCategory == null) throw new NullReferenceException();
+            return dbCategory;
+
         }
 
-        public async Task RemoveAsync(int id)
+            public async Task RemoveAsync(int id)
         {
             var dbCategory = await _unitOfWork.categoryRepository
                                         .GetAsync(c => c.Id == id);
@@ -95,10 +99,6 @@ namespace CinemaApp.Business.Implementations
 
         }
 
-        public CategoryUpdateDto Update(int id)
-        {
-            throw new NotImplementedException();
-        }
 
         public async Task UpdateAsync(int id, CategoryUpdateDto updateDto)
         {

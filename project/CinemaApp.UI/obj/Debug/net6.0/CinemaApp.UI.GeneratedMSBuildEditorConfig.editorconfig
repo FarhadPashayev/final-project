@@ -9,191 +9,189 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CinemaApp.UI
 build_property.RootNamespace = CinemaApp.UI
-build_property.ProjectDir = C:\Data\FinalProjects\CinemaApp\CinemaApp.UI\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.ProjectDir = C:\Users\Farhad\Source\Repos\final-project\project\CinemaApp.UI\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Data\FinalProjects\CinemaApp\CinemaApp.UI
+build_property.MSBuildProjectDirectory = C:\Users\Farhad\Source\Repos\final-project\project\CinemaApp.UI
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Data/FinalProjects/CinemaApp/CinemaApp.UI/Areas/AdminArea/Views/Category/Create.cshtml]
+[C:/Users/Farhad/Source/Repos/final-project/project/CinemaApp.UI/Areas/AdminArea/Views/Category/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXENhdGVnb3J5XENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Data/FinalProjects/CinemaApp/CinemaApp.UI/Areas/AdminArea/Views/Category/Index.cshtml]
+[C:/Users/Farhad/Source/Repos/final-project/project/CinemaApp.UI/Areas/AdminArea/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXENhdGVnb3J5XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Data/FinalProjects/CinemaApp/CinemaApp.UI/Areas/AdminArea/Views/Category/Update.cshtml]
+[C:/Users/Farhad/Source/Repos/final-project/project/CinemaApp.UI/Areas/AdminArea/Views/Category/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXENhdGVnb3J5XFVwZGF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Data/FinalProjects/CinemaApp/CinemaApp.UI/Areas/AdminArea/Views/Cinema/Create.cshtml]
+[C:/Users/Farhad/Source/Repos/final-project/project/CinemaApp.UI/Areas/AdminArea/Views/Cinema/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXENpbmVtYVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Data/FinalProjects/CinemaApp/CinemaApp.UI/Areas/AdminArea/Views/Cinema/Index.cshtml]
+[C:/Users/Farhad/Source/Repos/final-project/project/CinemaApp.UI/Areas/AdminArea/Views/Cinema/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXENpbmVtYVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Data/FinalProjects/CinemaApp/CinemaApp.UI/Areas/AdminArea/Views/Cinema/Update.cshtml]
+[C:/Users/Farhad/Source/Repos/final-project/project/CinemaApp.UI/Areas/AdminArea/Views/Cinema/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXENpbmVtYVxVcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Data/FinalProjects/CinemaApp/CinemaApp.UI/Areas/AdminArea/Views/ContactUs/Index.cshtml]
+[C:/Users/Farhad/Source/Repos/final-project/project/CinemaApp.UI/Areas/AdminArea/Views/ContactUs/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXENvbnRhY3RVc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Data/FinalProjects/CinemaApp/CinemaApp.UI/Areas/AdminArea/Views/Dashboard/Index.cshtml]
+[C:/Users/Farhad/Source/Repos/final-project/project/CinemaApp.UI/Areas/AdminArea/Views/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXERhc2hib2FyZFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Data/FinalProjects/CinemaApp/CinemaApp.UI/Areas/AdminArea/Views/Format/Create.cshtml]
+[C:/Users/Farhad/Source/Repos/final-project/project/CinemaApp.UI/Areas/AdminArea/Views/Format/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXEZvcm1hdFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Data/FinalProjects/CinemaApp/CinemaApp.UI/Areas/AdminArea/Views/Format/Index.cshtml]
+[C:/Users/Farhad/Source/Repos/final-project/project/CinemaApp.UI/Areas/AdminArea/Views/Format/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXEZvcm1hdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Data/FinalProjects/CinemaApp/CinemaApp.UI/Areas/AdminArea/Views/Format/Update.cshtml]
+[C:/Users/Farhad/Source/Repos/final-project/project/CinemaApp.UI/Areas/AdminArea/Views/Format/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXEZvcm1hdFxVcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Data/FinalProjects/CinemaApp/CinemaApp.UI/Areas/AdminArea/Views/Language/Create.cshtml]
+[C:/Users/Farhad/Source/Repos/final-project/project/CinemaApp.UI/Areas/AdminArea/Views/Language/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXExhbmd1YWdlXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Data/FinalProjects/CinemaApp/CinemaApp.UI/Areas/AdminArea/Views/Language/Index.cshtml]
+[C:/Users/Farhad/Source/Repos/final-project/project/CinemaApp.UI/Areas/AdminArea/Views/Language/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXExhbmd1YWdlXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Data/FinalProjects/CinemaApp/CinemaApp.UI/Areas/AdminArea/Views/Language/Update.cshtml]
+[C:/Users/Farhad/Source/Repos/final-project/project/CinemaApp.UI/Areas/AdminArea/Views/Language/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXExhbmd1YWdlXFVwZGF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Data/FinalProjects/CinemaApp/CinemaApp.UI/Areas/AdminArea/Views/Movie/Create.cshtml]
+[C:/Users/Farhad/Source/Repos/final-project/project/CinemaApp.UI/Areas/AdminArea/Views/Movie/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXE1vdmllXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Data/FinalProjects/CinemaApp/CinemaApp.UI/Areas/AdminArea/Views/Movie/Index.cshtml]
+[C:/Users/Farhad/Source/Repos/final-project/project/CinemaApp.UI/Areas/AdminArea/Views/Movie/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXE1vdmllXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Data/FinalProjects/CinemaApp/CinemaApp.UI/Areas/AdminArea/Views/Movie/Update.cshtml]
+[C:/Users/Farhad/Source/Repos/final-project/project/CinemaApp.UI/Areas/AdminArea/Views/Movie/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXE1vdmllXFVwZGF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Data/FinalProjects/CinemaApp/CinemaApp.UI/Areas/AdminArea/Views/News/Create.cshtml]
+[C:/Users/Farhad/Source/Repos/final-project/project/CinemaApp.UI/Areas/AdminArea/Views/News/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXE5ld3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Data/FinalProjects/CinemaApp/CinemaApp.UI/Areas/AdminArea/Views/News/Index.cshtml]
+[C:/Users/Farhad/Source/Repos/final-project/project/CinemaApp.UI/Areas/AdminArea/Views/News/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXE5ld3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Data/FinalProjects/CinemaApp/CinemaApp.UI/Areas/AdminArea/Views/News/Update.cshtml]
+[C:/Users/Farhad/Source/Repos/final-project/project/CinemaApp.UI/Areas/AdminArea/Views/News/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXE5ld3NcVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Data/FinalProjects/CinemaApp/CinemaApp.UI/Areas/AdminArea/Views/Shared/_AdminLayout.cshtml]
+[C:/Users/Farhad/Source/Repos/final-project/project/CinemaApp.UI/Areas/AdminArea/Views/Shared/_AdminLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXFNoYXJlZFxfQWRtaW5MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Data/FinalProjects/CinemaApp/CinemaApp.UI/Areas/AdminArea/Views/_ViewImports.cshtml]
+[C:/Users/Farhad/Source/Repos/final-project/project/CinemaApp.UI/Areas/AdminArea/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Data/FinalProjects/CinemaApp/CinemaApp.UI/Areas/AdminArea/Views/_ViewStart.cshtml]
+[C:/Users/Farhad/Source/Repos/final-project/project/CinemaApp.UI/Areas/AdminArea/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Data/FinalProjects/CinemaApp/CinemaApp.UI/Views/About/Index.cshtml]
+[C:/Users/Farhad/Source/Repos/final-project/project/CinemaApp.UI/Views/About/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Data/FinalProjects/CinemaApp/CinemaApp.UI/Views/Account/ForgetPassword.cshtml]
+[C:/Users/Farhad/Source/Repos/final-project/project/CinemaApp.UI/Views/Account/ForgetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3JnZXRQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Data/FinalProjects/CinemaApp/CinemaApp.UI/Views/Account/Login.cshtml]
+[C:/Users/Farhad/Source/Repos/final-project/project/CinemaApp.UI/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Data/FinalProjects/CinemaApp/CinemaApp.UI/Views/Account/Profile.cshtml]
+[C:/Users/Farhad/Source/Repos/final-project/project/CinemaApp.UI/Views/Account/Profile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxQcm9maWxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Data/FinalProjects/CinemaApp/CinemaApp.UI/Views/Account/Register.cshtml]
+[C:/Users/Farhad/Source/Repos/final-project/project/CinemaApp.UI/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Data/FinalProjects/CinemaApp/CinemaApp.UI/Views/Account/ResetPassword.cshtml]
+[C:/Users/Farhad/Source/Repos/final-project/project/CinemaApp.UI/Views/Account/ResetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Data/FinalProjects/CinemaApp/CinemaApp.UI/Views/Account/SuccesSending.cshtml]
+[C:/Users/Farhad/Source/Repos/final-project/project/CinemaApp.UI/Views/Account/SuccesSending.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxTdWNjZXNTZW5kaW5nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Data/FinalProjects/CinemaApp/CinemaApp.UI/Views/Cinema/Detail.cshtml]
+[C:/Users/Farhad/Source/Repos/final-project/project/CinemaApp.UI/Views/Cinema/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2luZW1hXERldGFpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Data/FinalProjects/CinemaApp/CinemaApp.UI/Views/ContactUs/Create.cshtml]
+[C:/Users/Farhad/Source/Repos/final-project/project/CinemaApp.UI/Views/ContactUs/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Data/FinalProjects/CinemaApp/CinemaApp.UI/Views/Email/ConfirmEmail.cshtml]
+[C:/Users/Farhad/Source/Repos/final-project/project/CinemaApp.UI/Views/Email/ConfirmEmail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxcQ29uZmlybUVtYWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Data/FinalProjects/CinemaApp/CinemaApp.UI/Views/Favorite/ShowFavorite.cshtml]
+[C:/Users/Farhad/Source/Repos/final-project/project/CinemaApp.UI/Views/Favorite/ShowFavorite.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmF2b3JpdGVcU2hvd0Zhdm9yaXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Data/FinalProjects/CinemaApp/CinemaApp.UI/Views/Home/Index.cshtml]
+[C:/Users/Farhad/Source/Repos/final-project/project/CinemaApp.UI/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Data/FinalProjects/CinemaApp/CinemaApp.UI/Views/Movie/Detail.cshtml]
+[C:/Users/Farhad/Source/Repos/final-project/project/CinemaApp.UI/Views/Movie/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcRGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Data/FinalProjects/CinemaApp/CinemaApp.UI/Views/Platinium/Index.cshtml]
+[C:/Users/Farhad/Source/Repos/final-project/project/CinemaApp.UI/Views/Platinium/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhdGluaXVtXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Data/FinalProjects/CinemaApp/CinemaApp.UI/Views/Shared/Components/Footer/Default.cshtml]
+[C:/Users/Farhad/Source/Repos/final-project/project/CinemaApp.UI/Views/Shared/Components/Footer/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRm9vdGVyXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Data/FinalProjects/CinemaApp/CinemaApp.UI/Views/Shared/Components/Header/Default.cshtml]
+[C:/Users/Farhad/Source/Repos/final-project/project/CinemaApp.UI/Views/Shared/Components/Header/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSGVhZGVyXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Data/FinalProjects/CinemaApp/CinemaApp.UI/Views/Shared/_CommentPartial.cshtml]
+[C:/Users/Farhad/Source/Repos/final-project/project/CinemaApp.UI/Views/Shared/_CommentPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Db21tZW50UGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Data/FinalProjects/CinemaApp/CinemaApp.UI/Views/Shared/_Layout.cshtml]
+[C:/Users/Farhad/Source/Repos/final-project/project/CinemaApp.UI/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Data/FinalProjects/CinemaApp/CinemaApp.UI/Views/Shared/_MoviePartial.cshtml]
+[C:/Users/Farhad/Source/Repos/final-project/project/CinemaApp.UI/Views/Shared/_MoviePartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Nb3ZpZVBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Data/FinalProjects/CinemaApp/CinemaApp.UI/Views/UserSetting/ChangeSetting.cshtml]
+[C:/Users/Farhad/Source/Repos/final-project/project/CinemaApp.UI/Views/UserSetting/ChangeSetting.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclNldHRpbmdcQ2hhbmdlU2V0dGluZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Data/FinalProjects/CinemaApp/CinemaApp.UI/Views/_ViewImports.cshtml]
+[C:/Users/Farhad/Source/Repos/final-project/project/CinemaApp.UI/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Data/FinalProjects/CinemaApp/CinemaApp.UI/Views/_ViewStart.cshtml]
+[C:/Users/Farhad/Source/Repos/final-project/project/CinemaApp.UI/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

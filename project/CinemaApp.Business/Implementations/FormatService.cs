@@ -76,9 +76,13 @@ namespace CinemaApp.Business.Implementations
             return formatDtos;
         }
 
-        public Task<Format> GetAsync(int id)
+        public async Task<Format> GetAsync(int id)
         {
-            throw new NotImplementedException();
+            var dbFormat = await _unitOfWork.formatRepository
+                                       .GetAsync(c => c.Id == id);
+
+            if (dbFormat == null) throw new NullReferenceException();
+            return dbFormat;
         }
 
         public async Task RemoveAsync(int id)
@@ -93,10 +97,6 @@ namespace CinemaApp.Business.Implementations
             await _unitOfWork.SavechangeAsync();
         }
 
-        public FormatUpdateDto Update(int id)
-        {
-            throw new NotImplementedException();
-        }
 
         public async Task UpdateAsync(int id, FormatUpdateDto updateDto)
         {

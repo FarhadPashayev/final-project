@@ -64,9 +64,10 @@ namespace CinemaApp.UI.Areas.AdminArea.Controllers
 
         }
 
-        public IActionResult Update(int Id)
+        public async Task<IActionResult> Update(int Id)
         {
-            return View();
+            News news = await _newsService.GetAsync(Id);
+            return View(news);
         }
 
         [HttpPost]

@@ -979,19 +979,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Asus VivoBook\\.nuget\\packages\\": {}
+    "C:\\Users\\Farhad\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Data\\FinalProjects\\CinemaApp\\CinemaApp.Core\\CinemaApp.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Farhad\\Source\\Repos\\final-project\\project\\CinemaApp.Core\\CinemaApp.Core.csproj",
       "projectName": "CinemaApp.Core",
-      "projectPath": "C:\\Data\\FinalProjects\\CinemaApp\\CinemaApp.Core\\CinemaApp.Core.csproj",
-      "packagesPath": "C:\\Users\\Asus VivoBook\\.nuget\\packages\\",
-      "outputPath": "C:\\Data\\FinalProjects\\CinemaApp\\CinemaApp.Core\\obj\\",
+      "projectPath": "C:\\Users\\Farhad\\Source\\Repos\\final-project\\project\\CinemaApp.Core\\CinemaApp.Core.csproj",
+      "packagesPath": "C:\\Users\\Farhad\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Farhad\\Source\\Repos\\final-project\\project\\CinemaApp.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Asus VivoBook\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Farhad\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1005,8 +1005,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Data\\FinalProjects\\CinemaApp\\CinemaApp.Entity\\CinemaApp.Entity.csproj": {
-              "projectPath": "C:\\Data\\FinalProjects\\CinemaApp\\CinemaApp.Entity\\CinemaApp.Entity.csproj"
+            "C:\\Users\\Farhad\\Source\\Repos\\final-project\\project\\CinemaApp.Entity\\CinemaApp.Entity.csproj": {
+              "projectPath": "C:\\Users\\Farhad\\Source\\Repos\\final-project\\project\\CinemaApp.Entity\\CinemaApp.Entity.csproj"
             }
           }
         }
@@ -1046,7 +1046,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

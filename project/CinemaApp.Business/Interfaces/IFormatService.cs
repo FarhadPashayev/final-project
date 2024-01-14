@@ -12,7 +12,6 @@ namespace CinemaApp.Business.Interfaces
         Task<IEnumerable<FormatReadDto>> GetAllAsync();
         Task<Format> GetAsync(int id);
         Task CreateAsync(FormatCreateDto createDto);
-        FormatUpdateDto Update(int id);
         Task UpdateAsync(int id, FormatUpdateDto updateDto);
         Task RemoveAsync(int id);
     }

@@ -86,9 +86,14 @@ namespace CinemaApp.Business.Implementations
             return cinemaDtos;
         }
 
-        public Task<Cinema> GetAsync(int id)
+        public async Task<Cinema> GetAsync(int id)
         {
-            throw new NotImplementedException();
+            Cinema dbCategory = await _unitOfWork.cinemaRepository
+                                        .GetAsync(c => c.Id == id);
+
+            if (dbCategory == null) throw new NullReferenceException();
+
+            return dbCategory;
         }
 
         public async Task RemoveAsync(int id)
@@ -101,11 +106,6 @@ namespace CinemaApp.Business.Implementations
             dbCategory.IsDeleted = true;
 
             await _unitOfWork.SavechangeAsync();
-        }
-
-        public CinemaUpdateDto Update(int id)
-        {
-            throw new NotImplementedException();
         }
 
         public async Task UpdateAsync(int id, CinemaUpdateDto updateDto)

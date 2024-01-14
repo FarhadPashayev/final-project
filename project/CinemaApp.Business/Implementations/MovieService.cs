@@ -172,9 +172,14 @@ namespace CinemaApp.Business.Implementations
             return movieDtos;
         }
 
-        public Task<Movie> GetAsync(int id)
+        public async Task<Movie> GetAsync(int id)
         {
-            throw new NotImplementedException();
+            var dbMovie = await _unitOfWork.movieRepository
+                                       .GetAsync(c => c.Id == id);
+
+            if (dbMovie == null) throw new NullReferenceException();
+
+            return dbMovie;
         }
 
         public async Task RemoveAsync(int id)

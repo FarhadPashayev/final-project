@@ -2,6 +2,7 @@
 using CinemaApp.Business.DTOs.FormatDtos;
 using CinemaApp.Business.Interfaces;
 using CinemaApp.Core;
+using CinemaApp.Entity.Entities;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
@@ -59,9 +60,10 @@ namespace CinemaApp.UI.Areas.AdminArea.Controllers
 
         }
 
-        public IActionResult Update(int Id)
+        public async Task<IActionResult> Update(int Id)
         {
-            return View();
+            Format format = await _formatService.GetAsync(Id);
+            return View(_mapper.Map<FormatUpdateDto>(format));
         }
 
         [HttpPost]
